@@ -1,0 +1,15 @@
+D:\Others\C#\Class&Obj\Class_methods\bin\Debug\net6.0\Class_methods.exe
+D:\Others\C#\Class&Obj\Class_methods\bin\Debug\net6.0\Class_methods.deps.json
+D:\Others\C#\Class&Obj\Class_methods\bin\Debug\net6.0\Class_methods.runtimeconfig.json
+D:\Others\C#\Class&Obj\Class_methods\bin\Debug\net6.0\Class_methods.dll
+D:\Others\C#\Class&Obj\Class_methods\bin\Debug\net6.0\Class_methods.pdb
+D:\Others\C#\Class&Obj\Class_methods\obj\Debug\net6.0\Class_methods.csproj.AssemblyReference.cache
+D:\Others\C#\Class&Obj\Class_methods\obj\Debug\net6.0\Class_methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\C#\Class&Obj\Class_methods\obj\Debug\net6.0\Class_methods.AssemblyInfoInputs.cache
+D:\Others\C#\Class&Obj\Class_methods\obj\Debug\net6.0\Class_methods.AssemblyInfo.cs
+D:\Others\C#\Class&Obj\Class_methods\obj\Debug\net6.0\Class_methods.csproj.CoreCompileInputs.cache
+D:\Others\C#\Class&Obj\Class_methods\obj\Debug\net6.0\Class_methods.dll
+D:\Others\C#\Class&Obj\Class_methods\obj\Debug\net6.0\refint\Class_methods.dll
+D:\Others\C#\Class&Obj\Class_methods\obj\Debug\net6.0\Class_methods.pdb
+D:\Others\C#\Class&Obj\Class_methods\obj\Debug\net6.0\Class_methods.genruntimeconfig.cache
+D:\Others\C#\Class&Obj\Class_methods\obj\Debug\net6.0\ref\Class_methods.dll

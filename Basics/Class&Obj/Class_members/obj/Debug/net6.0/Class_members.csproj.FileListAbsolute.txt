@@ -1,0 +1,15 @@
+D:\Others\C#\Class&Obj\Class_members\bin\Debug\net6.0\Class_members.exe
+D:\Others\C#\Class&Obj\Class_members\bin\Debug\net6.0\Class_members.deps.json
+D:\Others\C#\Class&Obj\Class_members\bin\Debug\net6.0\Class_members.runtimeconfig.json
+D:\Others\C#\Class&Obj\Class_members\bin\Debug\net6.0\Class_members.dll
+D:\Others\C#\Class&Obj\Class_members\bin\Debug\net6.0\Class_members.pdb
+D:\Others\C#\Class&Obj\Class_members\obj\Debug\net6.0\Class_members.csproj.AssemblyReference.cache
+D:\Others\C#\Class&Obj\Class_members\obj\Debug\net6.0\Class_members.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\C#\Class&Obj\Class_members\obj\Debug\net6.0\Class_members.AssemblyInfoInputs.cache
+D:\Others\C#\Class&Obj\Class_members\obj\Debug\net6.0\Class_members.AssemblyInfo.cs
+D:\Others\C#\Class&Obj\Class_members\obj\Debug\net6.0\Class_members.csproj.CoreCompileInputs.cache
+D:\Others\C#\Class&Obj\Class_members\obj\Debug\net6.0\Class_members.dll
+D:\Others\C#\Class&Obj\Class_members\obj\Debug\net6.0\refint\Class_members.dll
+D:\Others\C#\Class&Obj\Class_members\obj\Debug\net6.0\Class_members.pdb
+D:\Others\C#\Class&Obj\Class_members\obj\Debug\net6.0\Class_members.genruntimeconfig.cache
+D:\Others\C#\Class&Obj\Class_members\obj\Debug\net6.0\ref\Class_members.dll

@@ -1,0 +1,15 @@
+D:\Others\C#\Math\bin\Debug\net6.0\Math.exe
+D:\Others\C#\Math\bin\Debug\net6.0\Math.deps.json
+D:\Others\C#\Math\bin\Debug\net6.0\Math.runtimeconfig.json
+D:\Others\C#\Math\bin\Debug\net6.0\Math.dll
+D:\Others\C#\Math\bin\Debug\net6.0\Math.pdb
+D:\Others\C#\Math\obj\Debug\net6.0\Math.csproj.AssemblyReference.cache
+D:\Others\C#\Math\obj\Debug\net6.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\C#\Math\obj\Debug\net6.0\Math.AssemblyInfoInputs.cache
+D:\Others\C#\Math\obj\Debug\net6.0\Math.AssemblyInfo.cs
+D:\Others\C#\Math\obj\Debug\net6.0\Math.csproj.CoreCompileInputs.cache
+D:\Others\C#\Math\obj\Debug\net6.0\Math.dll
+D:\Others\C#\Math\obj\Debug\net6.0\refint\Math.dll
+D:\Others\C#\Math\obj\Debug\net6.0\Math.pdb
+D:\Others\C#\Math\obj\Debug\net6.0\Math.genruntimeconfig.cache
+D:\Others\C#\Math\obj\Debug\net6.0\ref\Math.dll

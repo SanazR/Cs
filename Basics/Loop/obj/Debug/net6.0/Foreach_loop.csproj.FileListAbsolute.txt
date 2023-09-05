@@ -1,0 +1,15 @@
+D:\Others\C#\Foreach_loop\obj\Debug\net6.0\Foreach_loop.csproj.AssemblyReference.cache
+D:\Others\C#\Foreach_loop\obj\Debug\net6.0\Foreach_loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\C#\Foreach_loop\obj\Debug\net6.0\Foreach_loop.AssemblyInfoInputs.cache
+D:\Others\C#\Foreach_loop\obj\Debug\net6.0\Foreach_loop.AssemblyInfo.cs
+D:\Others\C#\Foreach_loop\obj\Debug\net6.0\Foreach_loop.csproj.CoreCompileInputs.cache
+D:\Others\C#\Foreach_loop\bin\Debug\net6.0\Foreach_loop.exe
+D:\Others\C#\Foreach_loop\bin\Debug\net6.0\Foreach_loop.deps.json
+D:\Others\C#\Foreach_loop\bin\Debug\net6.0\Foreach_loop.runtimeconfig.json
+D:\Others\C#\Foreach_loop\bin\Debug\net6.0\Foreach_loop.dll
+D:\Others\C#\Foreach_loop\bin\Debug\net6.0\Foreach_loop.pdb
+D:\Others\C#\Foreach_loop\obj\Debug\net6.0\Foreach_loop.dll
+D:\Others\C#\Foreach_loop\obj\Debug\net6.0\refint\Foreach_loop.dll
+D:\Others\C#\Foreach_loop\obj\Debug\net6.0\Foreach_loop.pdb
+D:\Others\C#\Foreach_loop\obj\Debug\net6.0\Foreach_loop.genruntimeconfig.cache
+D:\Others\C#\Foreach_loop\obj\Debug\net6.0\ref\Foreach_loop.dll

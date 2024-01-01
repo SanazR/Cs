@@ -1,0 +1,14 @@
+D:\Others\C#\Get_power\Get_power\obj\Debug\net8.0\Get_power.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\C#\Get_power\Get_power\obj\Debug\net8.0\Get_power.AssemblyInfoInputs.cache
+D:\Others\C#\Get_power\Get_power\obj\Debug\net8.0\Get_power.AssemblyInfo.cs
+D:\Others\C#\Get_power\Get_power\obj\Debug\net8.0\Get_power.csproj.CoreCompileInputs.cache
+D:\Others\C#\Get_power\Get_power\bin\Debug\net8.0\Get_power.exe
+D:\Others\C#\Get_power\Get_power\bin\Debug\net8.0\Get_power.deps.json
+D:\Others\C#\Get_power\Get_power\bin\Debug\net8.0\Get_power.runtimeconfig.json
+D:\Others\C#\Get_power\Get_power\bin\Debug\net8.0\Get_power.dll
+D:\Others\C#\Get_power\Get_power\bin\Debug\net8.0\Get_power.pdb
+D:\Others\C#\Get_power\Get_power\obj\Debug\net8.0\Get_power.dll
+D:\Others\C#\Get_power\Get_power\obj\Debug\net8.0\refint\Get_power.dll
+D:\Others\C#\Get_power\Get_power\obj\Debug\net8.0\Get_power.pdb
+D:\Others\C#\Get_power\Get_power\obj\Debug\net8.0\Get_power.genruntimeconfig.cache
+D:\Others\C#\Get_power\Get_power\obj\Debug\net8.0\ref\Get_power.dll

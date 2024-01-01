@@ -1,0 +1,14 @@
+D:\Others\C#\Gussing_Game\Gussing_Game\bin\Debug\net8.0\Gussing_Game.exe
+D:\Others\C#\Gussing_Game\Gussing_Game\bin\Debug\net8.0\Gussing_Game.deps.json
+D:\Others\C#\Gussing_Game\Gussing_Game\bin\Debug\net8.0\Gussing_Game.runtimeconfig.json
+D:\Others\C#\Gussing_Game\Gussing_Game\bin\Debug\net8.0\Gussing_Game.dll
+D:\Others\C#\Gussing_Game\Gussing_Game\bin\Debug\net8.0\Gussing_Game.pdb
+D:\Others\C#\Gussing_Game\Gussing_Game\obj\Debug\net8.0\Gussing_Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\C#\Gussing_Game\Gussing_Game\obj\Debug\net8.0\Gussing_Game.AssemblyInfoInputs.cache
+D:\Others\C#\Gussing_Game\Gussing_Game\obj\Debug\net8.0\Gussing_Game.AssemblyInfo.cs
+D:\Others\C#\Gussing_Game\Gussing_Game\obj\Debug\net8.0\Gussing_Game.csproj.CoreCompileInputs.cache
+D:\Others\C#\Gussing_Game\Gussing_Game\obj\Debug\net8.0\Gussing_Game.dll
+D:\Others\C#\Gussing_Game\Gussing_Game\obj\Debug\net8.0\refint\Gussing_Game.dll
+D:\Others\C#\Gussing_Game\Gussing_Game\obj\Debug\net8.0\Gussing_Game.pdb
+D:\Others\C#\Gussing_Game\Gussing_Game\obj\Debug\net8.0\Gussing_Game.genruntimeconfig.cache
+D:\Others\C#\Gussing_Game\Gussing_Game\obj\Debug\net8.0\ref\Gussing_Game.dll

@@ -1,0 +1,14 @@
+D:\Others\C#\Enum\bin\Debug\net8.0\Enum.exe
+D:\Others\C#\Enum\bin\Debug\net8.0\Enum.deps.json
+D:\Others\C#\Enum\bin\Debug\net8.0\Enum.runtimeconfig.json
+D:\Others\C#\Enum\bin\Debug\net8.0\Enum.dll
+D:\Others\C#\Enum\bin\Debug\net8.0\Enum.pdb
+D:\Others\C#\Enum\obj\Debug\net8.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\C#\Enum\obj\Debug\net8.0\Enum.AssemblyInfoInputs.cache
+D:\Others\C#\Enum\obj\Debug\net8.0\Enum.AssemblyInfo.cs
+D:\Others\C#\Enum\obj\Debug\net8.0\Enum.csproj.CoreCompileInputs.cache
+D:\Others\C#\Enum\obj\Debug\net8.0\Enum.dll
+D:\Others\C#\Enum\obj\Debug\net8.0\refint\Enum.dll
+D:\Others\C#\Enum\obj\Debug\net8.0\Enum.pdb
+D:\Others\C#\Enum\obj\Debug\net8.0\Enum.genruntimeconfig.cache
+D:\Others\C#\Enum\obj\Debug\net8.0\ref\Enum.dll

@@ -1,0 +1,14 @@
+D:\Others\C#\Regular_Interface\obj\Debug\net8.0\Regular_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\C#\Regular_Interface\obj\Debug\net8.0\Regular_Interface.AssemblyInfoInputs.cache
+D:\Others\C#\Regular_Interface\obj\Debug\net8.0\Regular_Interface.AssemblyInfo.cs
+D:\Others\C#\Regular_Interface\obj\Debug\net8.0\Regular_Interface.csproj.CoreCompileInputs.cache
+D:\Others\C#\Regular_Interface\bin\Debug\net8.0\Regular_Interface.exe
+D:\Others\C#\Regular_Interface\bin\Debug\net8.0\Regular_Interface.deps.json
+D:\Others\C#\Regular_Interface\bin\Debug\net8.0\Regular_Interface.runtimeconfig.json
+D:\Others\C#\Regular_Interface\bin\Debug\net8.0\Regular_Interface.dll
+D:\Others\C#\Regular_Interface\bin\Debug\net8.0\Regular_Interface.pdb
+D:\Others\C#\Regular_Interface\obj\Debug\net8.0\Regular_Interface.dll
+D:\Others\C#\Regular_Interface\obj\Debug\net8.0\refint\Regular_Interface.dll
+D:\Others\C#\Regular_Interface\obj\Debug\net8.0\Regular_Interface.pdb
+D:\Others\C#\Regular_Interface\obj\Debug\net8.0\Regular_Interface.genruntimeconfig.cache
+D:\Others\C#\Regular_Interface\obj\Debug\net8.0\ref\Regular_Interface.dll

@@ -1,0 +1,14 @@
+D:\Others\C#\Multi_Interface\bin\Debug\net8.0\Multi_Interface.exe
+D:\Others\C#\Multi_Interface\bin\Debug\net8.0\Multi_Interface.deps.json
+D:\Others\C#\Multi_Interface\bin\Debug\net8.0\Multi_Interface.runtimeconfig.json
+D:\Others\C#\Multi_Interface\bin\Debug\net8.0\Multi_Interface.dll
+D:\Others\C#\Multi_Interface\bin\Debug\net8.0\Multi_Interface.pdb
+D:\Others\C#\Multi_Interface\obj\Debug\net8.0\Multi_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\C#\Multi_Interface\obj\Debug\net8.0\Multi_Interface.AssemblyInfoInputs.cache
+D:\Others\C#\Multi_Interface\obj\Debug\net8.0\Multi_Interface.AssemblyInfo.cs
+D:\Others\C#\Multi_Interface\obj\Debug\net8.0\Multi_Interface.csproj.CoreCompileInputs.cache
+D:\Others\C#\Multi_Interface\obj\Debug\net8.0\Multi_Interface.dll
+D:\Others\C#\Multi_Interface\obj\Debug\net8.0\refint\Multi_Interface.dll
+D:\Others\C#\Multi_Interface\obj\Debug\net8.0\Multi_Interface.pdb
+D:\Others\C#\Multi_Interface\obj\Debug\net8.0\Multi_Interface.genruntimeconfig.cache
+D:\Others\C#\Multi_Interface\obj\Debug\net8.0\ref\Multi_Interface.dll
